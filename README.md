@@ -52,7 +52,7 @@ This report was created to help an insurance company understand their policy and
 
 ---
 
-## 📸 Visuals / Screenshots
+## 📸 Visuals 
 
 ### 📍 Insurance Data Analysis Overview  
 ![Insurance Overview](https://github.com/darshitadhiya/Insurance-Data-Analysis/blob/main/Insurance%20Data%20Analysis%20Overview%20.png)
