@@ -2,7 +2,7 @@
 1. Project Title
    A Power BI report analyzing insurance policies, claims, and customer feedback using SQL Server and sentiment analysis.
 
-2. Short Description/ Purpose
+2. Short Description/ Purpose  
    This report was created to help an insurance company understand their policy and claim data in a simple and visual way. The data was first taken from a CSV file and loaded into Microsoft SQL Server, then connected to Power BI for analysis. The report shows key insights like total premium, coverage, and claim amounts, along with customer details such as age, gender, and policy types. It also highlights how many claims were settled, pending, or rejected. A special part of the report shows customer feedback and their sentiment, helping the company understand if customers are happy or facing issues. By using clear charts, tables, and filters, the report helps the company make better decisions, improve services, and identify trends or problems in their data easily.
 
 3. Tech Stack
