@@ -51,3 +51,20 @@ This report was created to help an insurance company understand their policy and
   Sentiment analysis helped classify feedback into *Excellent*, *Good*, or *Needs Improvement*—highlighting areas where customer service can be improved.
 
 ---
+
+## 📸 Visuals / Screenshots
+
+### 📍 Insurance Data Analysis Overview  
+![Insurance Overview](https://github.com/darshitadhiya/Insurance-Data-Analysis/blob/main/Insurance%20Data%20Analysis%20Overview%20.png)
+
+---
+
+### 📍 Viewing Raw Data by Policy Types  
+![Viewing Data by Policy](https://github.com/darshitadhiya/Insurance-Data-Analysis/blob/main/Viewing%20Data%20based%20on%20Policy%20types%20.png)
+
+---
+
+### 📍 Sentiment Analysis Dashboard  
+![Sentiment Analysis](https://github.com/darshitadhiya/Insurance-Data-Analysis/blob/main/Sentiment%20Analysis.png)
+
+---
